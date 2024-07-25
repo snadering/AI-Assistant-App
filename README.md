@@ -2,6 +2,8 @@
 
 Welcome to the frontend of the OpenAI Web Project! This is a React application built using Vite, designed to interact with the OpenAI API.
 
+![alt text](./src/assets/demo.png)
+
 ## Overview
 
 This frontend application allows users to input text prompts and receive responses from the OpenAI API. It consists of a simple user interface with an input field, an output field, and a "Send" button.
